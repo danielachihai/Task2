@@ -1,5 +1,5 @@
 public class Employees {
     public static void main(String[] args) {
-        System.out.println("This is our Employees class!");
+        System.out.println("Employees");
     }
 }
